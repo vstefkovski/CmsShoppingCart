@@ -5,3 +5,29 @@
 .ui-state-highlight{
     border: 1px dashed #ccc;
 }
+
+div.new-cat{
+    margin-top: 300px;
+    position: relative;
+}
+
+span.ajax-text{
+    display: none;
+}
+
+body > div.container.body-content > div {
+    margin-top: 30px;
+    position: relative;
+}
+
+body > div.container.body-content > div > p > span {
+    display: none;
+}
+
+table.sorting.categories td {
+    padding: 20px !important;
+}
+
+.ajaxdivtd{
+    position: absolute;
+}
